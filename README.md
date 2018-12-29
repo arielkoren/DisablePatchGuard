@@ -58,7 +58,7 @@ In order to build from source you need Microsoft Visual Studio 2015 and later ve
 * Kernel Patch Protection, https://en.wikipedia.org/wiki/Kernel_Patch_Protection
 * Driver Signing Policy, https://msdn.microsoft.com/en-us/windows/hardware/drivers/install/kernel-mode-code-signing-policy--windows-vista-and-later-
 
-# Original Authors
+# Authors
 * EP_X0FF, https://github.com/hfiref0x
 * Fyyre,   http://fyyre.ru
 * ArielKoren_, https://arielkoren.com
